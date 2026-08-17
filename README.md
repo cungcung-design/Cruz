@@ -38,41 +38,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=codewithcruz&theme=tokyonight&no-bg=true&margin-w=10&margin-h=10" alt="codewithcruz trophies" />
-  </a>
-</div>
-
----
-
 ### ⚡ Tech Stack & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,flutter,dart,python,php,mysql,mongodb,postgresql,docker,nginx,git,github,figma,vscode&perline=10" alt="tech stack" />
-</div>
-
----
-
-### 📊 GitHub Analytics & Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=codewithcruz&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5" alt="codewithcruz stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithcruz&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5" alt="codewithcruz top langs" />
-      </td>
-    </tr>
-  </table>
-
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithcruz&theme=tokyonight&hide_border=true&background=1a1b26" alt="codewithcruz streak" />
-  </p>
 </div>
 
 ---
