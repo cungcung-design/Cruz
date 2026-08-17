@@ -8,11 +8,6 @@ on:
   # Allow manual execution
   workflow_dispatch:
 
-  # Run whenever changes are pushed to main
-  push:
-    branches:
-      - main
-
 # Allow the workflow to write to the repository
 permissions:
   contents: write
