@@ -32,9 +32,9 @@
 
 - 🎓 Computer Science student
 - 💻 Junior Full-Stack Developer
-- 🚀 Hands-on experience building full-stack web applications
-- 🛠️ Familiar with React, TypeScript, Node.js, Express.js, PostgreSQL, and Prisma
-- 🌱 Passionate about learning, gaining real-world experience, and improving as a developer
+- 🚀 Hands-on experience building full-stack web and mobile applications
+- 🛠️ Familiar with React, TypeScript, Node.js, Express.js, PostgreSQL, Prisma, Flutter & Dart
+- 🌱 Passionate about learning, gaining real-world experience, and growing as a developer
 
 ---
 
