@@ -49,11 +49,9 @@
 ### 🐍 GitHub Snake Animation
 
 <div align="center">
-  <a href="https://github.com/cungcung-design/Cruz">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cungcung-design/Cruz/output/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cungcung-design/Cruz/output/github-snake.svg" />
-      <img alt="github-snake" src="https://raw.githubusercontent.com/cungcung-design/Cruz/output/github-snake.svg" style="max-width: 100%; border-radius: 12px; box-shadow: 0 0 20px rgba(122, 162, 247, 0.3);" />
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cungcung-design/Cruz/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cungcung-design/Cruz/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/cungcung-design/Cruz/output/github-snake.svg" />
+  </picture>
 </div>
