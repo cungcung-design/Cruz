@@ -30,9 +30,11 @@
 
 ### 🚀 About Me
 
-- 💻 Computer Science student and Full-Stack Developer specializing in scalable web and mobile architecture.
-- 📱 Proficient in cross-platform development with **Flutter** and full-stack ecosystems like the **MERN Stack**.
-- 🛠️ Passionate about clean code, modern UI/UX design, and transforming ideas into robust digital solutions.
+- 🎓 Computer Science student
+- 💻 Junior Full-Stack Developer
+- 🚀 Hands-on experience building full-stack web applications
+- 🛠️ Familiar with React, TypeScript, Node.js, Express.js, PostgreSQL, and Prisma
+- 🌱 Passionate about learning, gaining real-world experience, and improving as a developer
 
 ---
 
