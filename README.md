@@ -10,7 +10,7 @@
 
   <!-- Social & Contact Badges -->
   <p>
-    <a href="https://github.com/codewithcruz">
+    <a href="https://github.com/cungcung-design/Cruz">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="https://linkedin.com">
