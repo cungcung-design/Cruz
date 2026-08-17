@@ -1,9 +1,9 @@
 name: GitHub Snake Game
 
 on:
-  # Run every day at midnight UTC
+  # Run every day at 3:30 AM UTC to avoid GitHub API peak load
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "30 3 * * *"
 
   # Allow manual execution
   workflow_dispatch:
